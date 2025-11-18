@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Ken
+
+Just some dude who likes to try new things 😄.
 
 <!--
 **KenKaiZhang/KenKaiZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
